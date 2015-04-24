@@ -1,2 +1,2 @@
 # image-classifier
-Classify images using logistic regression on bags of words.
+Classify images using logistic regression on bags of visual words.
